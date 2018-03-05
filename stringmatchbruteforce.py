@@ -17,6 +17,6 @@ def string_match(given,pattern):
 	print(pos)
 
 given = "quickbrownfoxjumpedoverthelazydog"
-#		"012345678901234567890123456789012"
+#	"012345678901234567890123456789012"
 pattern = "lazy"
 string_match(given,pattern)
