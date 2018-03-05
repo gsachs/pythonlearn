@@ -1,3 +1,4 @@
+# Simple string match function using brute force
 def string_match(given,pattern):
 
 	given_len = len(given)
